@@ -1,5 +1,3 @@
-**#When you will be at 100 years old**
-
 ##When you will be at 100 years old
 
 ##Code in .py
